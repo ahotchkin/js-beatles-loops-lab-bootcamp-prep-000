@@ -42,12 +42,3 @@ function iLoveTheBeatles(n){
 //   } while (array.length > 0 && maybeTrue());
 //   return array
 // }
-
-// text += "The number is " + i;
-//     i++;
-
-// function whileLoop(n){
-//   while (n > 0)
-//   console.log(--n)
-//   return 'done'
-// }
